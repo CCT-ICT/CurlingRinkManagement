@@ -1,0 +1,6 @@
+@CurlingRinkManagement.Base_HostAddress = http://localhost:5250
+
+GET {{CurlingRinkManagement.Base_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
